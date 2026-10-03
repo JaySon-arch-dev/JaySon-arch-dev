@@ -115,7 +115,7 @@ Object-Oriented Programming project.
 ### 📂 Source Files
 
 - [`Main.java`](https://github.com/JaySon-arch-dev/Library-Manager-System/blob/main/Main.java)
-- [`Student.java`](https://github.com/JaySon-arch-dev/Library-Manager-System/blob/main/Student.java)
+- [`StudentUser.java`](https://github.com/JaySon-arch-dev/Library-Manager-System/blob/main/Student.java)
 - [`BorrowingTransaction.java`](https://github.com/JaySon-arch-dev/Library-Manager-System/blob/main/BorrowingTransaction.java)
 
 ### 🔗 Repository
