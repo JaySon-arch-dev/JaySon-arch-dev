@@ -118,13 +118,9 @@ Object-Oriented Programming project.
 - [`Student.java`](https://github.com/JaySon-arch-dev/Library-Manager-System/blob/main/Student.java)
 - [`BorrowingTransaction.java`](https://github.com/JaySon-arch-dev/Library-Manager-System/blob/main/BorrowingTransaction.java)
 
-### 🚧 Status
+### 🔗 Repository
 
-**Learning project / prototype**
-
-The project is currently being reviewed and improved.
-
-> 🔗 **Source code repository — coming soon**
+[View the Library Manager System repository](https://github.com/JaySon-arch-dev/Library-Manager-System)
 
 </details>
 
