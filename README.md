@@ -1,36 +1,96 @@
 <div align="center">
 
-<div style="position: relative;">
+<p align="center">
+  <img src="./images.jpeg" alt="JaySon profile header">
+</p>
 
-<img src="./images.jpeg" alt="JaySon profile header">
-<div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);">
+# 👋 Hi, I'm JaySon
 
-<h1>👋 Hi, I'm JaySon</h1>
+### BSIT • Network Design & Management
+Nueva Vizcaya State University — Bayombong Campus
 
-<h3>BSIT • Network Design & Management</h3>
-
-<p>Nueva Vizcaya State University — Bayombong Campus</p>
-
-<p><b>Networking • Systems  • IT</b></p>
+Networking • Systems • Infrastructure • IT
 
 </div>
 
-</div>
+---
+
+<!-- NAVIGATION -->
+
+<div align="center">
+
+[🏠 Home](#-hi-im-jayson) ·
+[👤 About](#-about-me) ·
+[🛠 Skills](#-skills) ·
+[📚 Learning](#-currently-learning)
 
 </div>
 
+---
 
-<!--
-**JaySon-arch-dev/JaySon-arch-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👤 About Me
 
-Here are some ideas to get you started:
+<details>
+<summary>Click to expand</summary>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a BSIT student majoring in **Network Design & Management** at Nueva Vizcaya State University — Bayombong Campus.
+
+I'm interested in **networking, systems, IT infrastructure, and how technology works behind the scenes**.
+
+I enjoy learning through **hands-on troubleshooting, problem solving, and understanding how different parts of a system work together**.
+
+</details>
+
+---
+
+## 🛠 Skills
+
+<details>
+<summary>Click to expand</summary>
+
+### 🌐 Networking
+
+- Basic VLAN configuration
+- Basic routing
+- Basic trunking
+- Basic network topology
+- Basic network troubleshooting
+- Cisco Packet Tracer
+
+### 💻 Programming
+
+- Basic Java
+
+### 🧰 Tools & Platforms
+
+- Microsoft Power Apps
+- Microsoft Power Fx
+- Microsoft SharePoint
+- GitHub
+
+</details>
+
+---
+
+## 📚 Currently Learning
+
+<details>
+<summary>Click to expand</summary>
+
+- Network administration
+- Network troubleshooting
+- Systems analysis and design
+- Software engineering
+- IT project development
+- Git and GitHub workflow
+- Programming and system development
+
+</details>
+
+---
+
+<div align="center">
+
+**Still learning. Still building. Still figuring things out. 🚀**
+
+</div>
