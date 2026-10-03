@@ -122,10 +122,6 @@ Object-Oriented Programming project.
 
 [View the Library Manager System repository](https://github.com/JaySon-arch-dev/Library-Manager-System)
 
-### 🔗 Repository
-
-[View the Library Manager System repository](https://github.com/JaySon-arch-dev/Library-Manager-System)
-
 </details>
 
 ---
