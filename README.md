@@ -156,6 +156,8 @@ You can reach me through my GitHub profile:
 </details>
 
 <div align="center">
+  
+---
 
 **Still learning. Still building. Still figuring things out. 🚀**
 
