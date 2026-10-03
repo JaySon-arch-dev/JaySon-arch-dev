@@ -91,31 +91,80 @@ I enjoy learning through **hands-on troubleshooting, problem solving, and unders
 ## 💻 Projects
 
 <details>
-<summary>Click to expand</summary>
+<summary>📚 Library Management System</summary>
 
-### Online Equipment Borrowing Management System
+### 📖 Overview
 
-A university project focused on managing equipment borrowing and returning for faculty.
+A console-based **Library Management System** developed as a Java
+Object-Oriented Programming project.
 
-**Technologies:**
+### 🛠 Technologies
+
+- Java
+- Object-Oriented Programming
+- Console-based application
+
+### 🧠 Concepts
+
+- Classes and objects
+- Encapsulation
+- Methods
+- Object relationships
+- Basic borrowing logic
+
+### 📂 Source Files
+
+- [`Main.java`](https://github.com/JaySon-arch-dev/Library-Manager-System/blob/main/Main.java)
+- [`Student.java`](https://github.com/JaySon-arch-dev/Library-Manager-System/blob/main/Student.java)
+- [`BorrowingTransaction.java`](https://github.com/JaySon-arch-dev/Library-Manager-System/blob/main/BorrowingTransaction.java)
+
+### 🚧 Status
+
+**Learning project / prototype**
+
+The project is currently being reviewed and improved.
+
+> 🔗 **Source code repository — coming soon**
+
+</details>
+
+---
+
+<details>
+<summary>🏫 Equipment Borrowing Management System</summary>
+
+### 📖 Overview
+
+A university project focused on managing equipment borrowing and
+returning for faculty.
+
+### 🛠 Technologies
+
 - Microsoft Power Apps
 - Microsoft Power Fx
 - Microsoft SharePoint
 
-**Focus:**
+### 🎯 Focus
+
 - User authentication
 - Role-based access
 - Equipment borrowing
 - Approval process
 - Transaction and return management
 
+</details>
+
 ---
 
-### Network Configuration Projects
+<details>
+<summary>🌐 Network Configuration Projects</summary>
 
-Hands-on networking activities using **Cisco Packet Tracer**.
+### 📖 Overview
 
-**Topics:**
+Hands-on networking activities developed using **Cisco Packet Tracer**.
+
+### 🛠 Topics
+
 - VLAN
 - Trunking
 - Routing
