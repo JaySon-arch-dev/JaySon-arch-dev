@@ -113,9 +113,10 @@ Object-Oriented Programming project.
 - Basic borrowing logic
 
 ### 📂 Source Files
+### 📂 Source Files
 
 - [`Main.java`](https://github.com/JaySon-arch-dev/Library-Manager-System/blob/main/Main.java)
-- [`StudentUser.java`](https://github.com/JaySon-arch-dev/Library-Manager-System/blob/main/Student.java)
+- [`StudentUser.java`](https://github.com/JaySon-arch-dev/Library-Manager-System/blob/main/StudentUser.java)
 - [`BorrowingTransaction.java`](https://github.com/JaySon-arch-dev/Library-Manager-System/blob/main/BorrowingTransaction.java)
 
 ### 🔗 Repository
