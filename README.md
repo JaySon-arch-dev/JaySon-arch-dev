@@ -9,7 +9,7 @@
 ### BSIT • Network Design & Management
 Nueva Vizcaya State University — Bayombong Campus
 
-Networking • Systems • Infrastructure • IT
+Networking • Systems • IT
 
 </div>
 
