@@ -55,7 +55,6 @@ I enjoy learning through **hands-on troubleshooting, problem solving, and unders
 - Basic trunking
 - Basic network topology
 - Basic network troubleshooting
-- Cisco Packet Tracer
 
 ### 💻 Programming
 
@@ -63,10 +62,9 @@ I enjoy learning through **hands-on troubleshooting, problem solving, and unders
 
 ### 🧰 Tools & Platforms
 
-- Microsoft Power Apps
-- Microsoft Power Fx
-- Microsoft SharePoint
-- GitHub
+- Vercel 
+- GitHub 
+- Cisco Packet Tracer 
 
 </details>
 
@@ -76,8 +74,7 @@ I enjoy learning through **hands-on troubleshooting, problem solving, and unders
 
 <details>
 <summary>Click to expand</summary>
-
-- Network administration
+  
 - Network troubleshooting
 - Systems analysis and design
 - Software engineering
