@@ -1,13 +1,25 @@
 <div align="center">
 
-# 👋 Hi, I'm JaySon
-BSIT • Network Design & Management
+<div style="position: relative;">
 
-Nueva Vizcaya State University — Bayombong Campus
+<img src="./images.jpeg" width="100%" alt="JaySon profile header">
 
-Exploring Networking • Systems • IT Infrastructure
+<div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);">
+
+<h1>👋 Hi, I'm JaySon</h1>
+
+<h3>BSIT • Network Design & Management</h3>
+
+<p>Nueva Vizcaya State University — Bayombong Campus</p>
+
+<p><b>Networking • Systems  • IT</b></p>
 
 </div>
+
+</div>
+
+</div>
+
 
 <!--
 **JaySon-arch-dev/JaySon-arch-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
