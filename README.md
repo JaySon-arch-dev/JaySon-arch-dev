@@ -1,4 +1,13 @@
-## Hi there 👋
+<div align="center">
+
+# 👋 Hi, I'm JaySon
+BSIT • Network Design & Management
+
+Nueva Vizcaya State University — Bayombong Campus
+
+Exploring Networking • Systems • IT Infrastructure
+
+</div>
 
 <!--
 **JaySon-arch-dev/JaySon-arch-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
