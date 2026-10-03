@@ -2,8 +2,7 @@
 
 <div style="position: relative;">
 
-<img src="./images.jpeg" width="100%" alt="JaySon profile header">
-
+<img src="./images.jpeg" alt="JaySon profile header">
 <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);">
 
 <h1>👋 Hi, I'm JaySon</h1>
